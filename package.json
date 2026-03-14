@@ -1,0 +1,23 @@
+{
+  "name": "tools-activity-01",
+  "version": "1.0.0",
+  "description": "This project was created for the module **PUSL2020 – Software Development Tools and Practices**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdithyaHerath/node-tools-activity-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdithyaHerath/node-tools-activity-01/issues"
+  },
+  "homepage": "https://github.com/AdithyaHerath/node-tools-activity-01#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
